@@ -1,0 +1,7 @@
+
+
+Relative Humidity: 87.90138674884437
+Temperature Average: 2.7400286944045913
+Wind Speed: 3.9007173601147778
+Precipitation Amount: nan
+Pressure Average: 1012.6341463414634
